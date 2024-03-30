@@ -1,0 +1,13 @@
+.myVideoCss {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.myVideoCss img{
+    max-width: 180px;
+}
+
+.myVideoCss p {
+  font-weight: bold;
+}
